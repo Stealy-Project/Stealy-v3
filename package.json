@@ -14,7 +14,7 @@
     "node-gyp": "^11.3.0",
     "os": "^0.1.2",
     "rebuild": "^0.1.2",
-    "sans-stealy-js": "^11.9.98",
+    "sami.js-selfbot-v11": "^11.9.98",
     "socks-proxy-agent": "^5.0.1",
     "tough-cookie": "^5.1.2",
     "ws": "^8.18.3"
